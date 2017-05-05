@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node scrapper.js"
+    },
+    "dependencies": {
+        "ejs": "^2.2.4",
+        "plivo": "^0.1.0",
+        "jsdom": "^10.0.0",
+        "jquery": "^1.7.4",
+        "express": "^4.11.2",
+        "jsonfile": "^2.0.0",
+        "body-parser": "^1.12.0"
+    }
+}
